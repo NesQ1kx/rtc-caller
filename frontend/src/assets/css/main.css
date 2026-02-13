@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@import 'tailwindcss-primeui';
+@import './theme.css';
+
+@layer base {
+   * {
+       margin: 0;
+       padding: 0;
+   }
+}
+

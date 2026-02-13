@@ -1,0 +1,27 @@
+export const iceServers = [
+  { urls: "stun:stun.l.google.com:19302" },
+  { urls: "stun:stun.l.google.com:5349" },
+  { urls: "stun:stun1.l.google.com:3478" },
+  { urls: "stun:stun1.l.google.com:5349" },
+  { urls: "stun:stun2.l.google.com:19302" },
+  { urls: "stun:stun2.l.google.com:5349" },
+  { urls: "stun:stun3.l.google.com:3478" },
+  { urls: "stun:stun3.l.google.com:5349" },
+  { urls: "stun:stun4.l.google.com:19302" },
+  { urls: "stun:stun4.l.google.com:5349" },
+  { urls: "stun:stun.stunprotocol.org:3478" },
+  { urls: "stun:stun.voiparound.com:3478" },
+  { urls: "stun:stun.ekiga.net:3478" },
+  { urls: "stun:stun.schlund.de:3478" },
+  { urls: "stun:stun.comtube.ru:3478" },
+  { urls: "stun:stun.chathelp.ru:3478" },
+  { urls: "stun:stun.arbuz.ru:3478" },
+  { urls: "stun:s1.taraba.net:3478" },
+  { urls: "stun:s2.taraba.net:3478" },
+
+  { urls: "stun:stun.speedy.com.ar:3478" },
+  { urls: "stun:stun.nextcloud.com:443" },
+  { urls: "stun:stun.ideasip.com:3478" },
+  { urls: "stun:stun.imesh.com:3478" },
+  { urls: "stun:stun.infra.net:3478" }
+]
